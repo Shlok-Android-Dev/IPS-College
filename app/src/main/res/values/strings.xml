@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">IPS College</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_collage">IPS COLLEGE, JAIPUR Is One Of The Rajasthan’s Elite Business Schools Shaping Business Practice And Transforming Careers Across The Globe.” As One Of The Rajasthans’s Leading Business Schools, IPS COLLEGE, JAIPUR Brings Together People, Cultures And Ideas To Change Lives And To Transform Organisations.</string>
+    <string name="Departments">Departments</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="accounts">Accounts</string>
+    <string name="management">Management</string>
+    <string name="hod">Head of Department</string>
+    <string name="staff">Staff</string>
+    <string name="lecturer">Lecturer</string>
+    <string name="techandman">Technology and Management</string>
+    <string name="principal">Principal</string>
+    <string name="ips">Institute of Professional Studies</string>
+    <string name="contact_details">Contact details</string>
+    <string name="ips_college">IPS College, Jaipur, Rajasthan</string>
+    <string name="ips_address">IPS COLLEGE, 87 Everest Vihar, Kings Road, Nirman Nagar, Jaipur, Rajasthan, 302019. Email : info@ipsedu.in,         Phone no: 8233970000 / 9829016449</string>
+    <string name="ips_college_only">IPS College</string>
+    <string name="shlok_aggrawal">Shlok Aggrawal</string>
+    <string name="senior_android_developer">Senior Android Developer</string>
+    <string name="shlok0531_gmail_com">shlok0531@gmail.com</string>
+    <string name="convocation">Convocation</string>
+    <string name="festival">Festival</string>
+    <string name="events">Events</string>
+    <string name="sports">Sports</string>
+    <string name="others">Others</string>
+    <string name="placements">Placements</string>
+    <string name="branch">Branch</string>
+    <string name="courses">Courses</string>
+    <string name="icon">icon</string>
+    <string name="home">Home</string>
+    <string name="notice">Notice</string>
+    <string name="faculty">Faculty</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">About</string>
+    <string name="video_lecture">Video Lecture</string>
+    <string name="ebooks">Ebooks</string>
+    <string name="themes">Themes</string>
+    <string name="website">Website</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="developer">Developer</string>
+    <string name="date">date:</string>
+    <string name="_01_jan_24">01 Jan 24</string>
+    <string name="time">Time:</string>
+    <string name="_12_21_pm">12:21 pm</string>
+    <string name="no_data_found">No data found</string>
+    <string name="comming_soon">Coming Soon</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="email_id">Email Id</string>
+    <string name="Logout" />
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile no</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="don_t_have_account">Don\'t have an account?</string>
+    <string name="have_an_account">have an account</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="back_to_login">back to login.</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+    <style name="Theme.AnAutomaticAndroidSlider" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
